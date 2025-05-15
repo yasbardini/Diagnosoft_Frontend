@@ -4,6 +4,8 @@ Este repositório contém o front-end do projeto desenvolvido para a disciplina 
 
 O sistema permite que médicos criem **formulários personalizados** para realização de **pesquisas clínicas**, com o objetivo de **auxiliar na obtenção de diagnósticos mais precisos** para seus pacientes.
 
+Neste sistema, os médicos podem adicionar fórmulas que utilizam dados obtidos por meio do formulário para colaborar com o diagnóstico. Todo o processo é automatizado, ou seja, a partir do momento em que a fórmula é adicionada ao formulário, o próprio sistema realiza o cálculo e devolve o resultado, tornando o diagnóstico mais eficiente.
+
 ---
 
 ## ⚙️ Requisitos
